@@ -1,6 +1,6 @@
 # Meal Planner
 
-A Python Tkinter–based desktop application that helps users plan meals, manage recipes, and organize daily meal plans through a simple graphical interface.
+A Python Tkinter based desktop application that helps users plan meals, manage recipes, and organize daily meal plans through a simple graphical interface.
 
 ## Features
 - GUI built with Tkinter
