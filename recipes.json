@@ -1,0 +1,692 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Fried Rice",
+    "ingredients": ["Rice", "Chicken", "Eggs", "Carrots", "Onion", "Soy Sauce"],
+    "instructions": [
+      "Cook rice and let it cool.",
+      "Chop chicken, carrots, and onion.",
+      "Heat oil in a pan and cook chicken until browned.",
+      "Add chopped vegetables and stir-fry for 3-4 minutes.",
+      "Push ingredients to the side and scramble eggs in the pan.",
+      "Mix rice into the pan and add soy sauce.",
+      "Stir-fry everything together for 2-3 minutes.",
+      "Serve hot."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 2,
+    "name": "Vegetable Pasta",
+    "ingredients": ["Pasta", "Tomatoes", "Onion", "Garlic", "Carrots"],
+    "instructions": [
+      "Boil pasta until al dente and drain.",
+      "Chop tomatoes, onion, garlic, and carrots.",
+      "Heat oil in a pan and sauté onion and garlic until fragrant.",
+      "Add tomatoes and carrots and cook for 5-7 minutes.",
+      "Mix cooked pasta into the pan and toss well.",
+      "Season with salt, pepper, and herbs.",
+      "Serve warm."
+    ],
+    "category": "Lunch"
+  },
+  {
+    "id": 3,
+    "name": "Beef Stew",
+    "ingredients": ["Beef", "Potatoes", "Carrots", "Onion", "Celery"],
+    "instructions": [
+      "Cut beef into cubes and brown in a pot with oil.",
+      "Chop potatoes, carrots, onion, and celery.",
+      "Add vegetables to the pot and sauté for 5 minutes.",
+      "Pour in broth to cover the ingredients.",
+      "Simmer on low heat for 1-2 hours until beef is tender.",
+      "Season with salt, pepper, and herbs.",
+      "Serve hot."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 4,
+    "name": "Cauliflower Curry",
+    "ingredients": ["Cauliflower", "Onion", "Tomatoes", "Garlic", "Coconut Milk"],
+    "instructions": [
+      "Chop cauliflower, onion, tomatoes, and garlic.",
+      "Heat oil in a pan and sauté onion and garlic until fragrant.",
+      "Add cauliflower and cook for 5 minutes.",
+      "Add tomatoes and cook for another 5 minutes.",
+      "Pour in coconut milk and simmer until cauliflower is tender.",
+      "Season with curry spices and salt.",
+      "Serve with rice."
+    ],
+    "category": "Lunch"
+  },
+  {
+    "id": 5,
+    "name": "Chicken Sandwich",
+    "ingredients": ["Bread", "Chicken", "Lettuce", "Tomatoes"],
+    "instructions": [
+      "Cook chicken and slice into thin pieces.",
+      "Wash and slice lettuce and tomatoes.",
+      "Toast bread slices if desired.",
+      "Layer chicken, lettuce, and tomatoes between bread slices.",
+      "Serve immediately."
+    ],
+    "category": "Snack"
+  },
+  {
+    "id": 6,
+    "name": "Banana Pancakes",
+    "ingredients": ["Bananas", "Flour", "Eggs", "Milk"],
+    "instructions": [
+      "Mash bananas in a bowl.",
+      "Add flour, eggs, and milk, and mix until smooth.",
+      "Heat a skillet over medium heat and lightly grease it.",
+      "Pour batter onto skillet to form pancakes.",
+      "Cook until bubbles form, then flip and cook the other side.",
+      "Serve hot with syrup or toppings."
+    ],
+    "category": "Breakfast"
+  },
+  {
+    "id": 7,
+    "name": "Tomato Soup",
+    "ingredients": ["Tomatoes", "Onion", "Garlic", "Butter", "Flour"],
+    "instructions": [
+      "Chop tomatoes, onion, and garlic.",
+      "Heat butter in a pot and sauté onion and garlic until soft.",
+      "Add tomatoes and cook until softened.",
+      "Add flour and stir to form a roux.",
+      "Pour in water or broth and simmer for 10 minutes.",
+      "Blend the soup until smooth.",
+      "Season with salt and pepper and serve hot."
+    ],
+    "category": "Lunch"
+  },
+  {
+    "id": 8,
+    "name": "Grilled Chicken Salad",
+    "ingredients": ["Chicken", "Lettuce", "Tomatoes", "Cucumber", "Lemon"],
+    "instructions": [
+      "Grill chicken until fully cooked and slice into strips.",
+      "Wash and chop lettuce, tomatoes, and cucumber.",
+      "Mix vegetables in a bowl and top with chicken slices.",
+      "Squeeze fresh lemon juice over the salad.",
+      "Serve immediately."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 9,
+    "name": "Egg Omelette",
+    "ingredients": ["Eggs", "Onion", "Tomatoes", "Bell Peppers"],
+    "instructions": [
+      "Beat eggs in a bowl.",
+      "Chop onion, tomatoes, and bell peppers.",
+      "Heat oil in a pan and sauté vegetables for 2-3 minutes.",
+      "Pour eggs into the pan and cook until set.",
+      "Fold omelette and serve hot."
+    ],
+    "category": "Breakfast"
+  },
+  {
+    "id": 10,
+    "name": "Fish Curry",
+    "ingredients": ["Fish", "Coconut Milk", "Onion", "Tomatoes", "Garlic"],
+    "instructions": [
+      "Chop onion, tomatoes, and garlic.",
+      "Heat oil in a pan and sauté onion and garlic until fragrant.",
+      "Add tomatoes and cook for 5 minutes.",
+      "Add fish pieces and cook gently for 2-3 minutes.",
+      "Pour in coconut milk and simmer until fish is cooked.",
+      "Season with salt and spices.",
+      "Serve with rice."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 11,
+    "name": "Pork Stir-Fry",
+    "ingredients": ["Pork", "Carrots", "Cabbage", "Onion", "Soy Sauce"],
+    "instructions": [
+      "Slice pork and chop vegetables.",
+      "Heat oil in a pan and cook pork until browned.",
+      "Add vegetables and stir-fry for 5-7 minutes.",
+      "Add soy sauce and mix well.",
+      "Serve hot with rice or noodles."
+    ],
+    "category": "Lunch"
+  },
+  {
+    "id": 12,
+    "name": "Fruit Salad",
+    "ingredients": ["Apples", "Bananas", "Oranges"],
+    "instructions": [
+      "Peel and chop apples, bananas, and oranges into bite-sized pieces.",
+      "Combine all fruits in a bowl.",
+      "Optionally drizzle with honey or lemon juice.",
+      "Serve chilled."
+    ],
+    "category": "Snack"
+  },
+  {
+    "id": 13,
+    "name": "Rice Pudding",
+    "ingredients": ["Rice", "Milk", "Sugar", "Cinnamon"],
+    "instructions": [
+      "Cook rice in water until tender.",
+      "Add milk and sugar and simmer for 15-20 minutes.",
+      "Stir continuously to prevent sticking.",
+      "Add cinnamon for flavor.",
+      "Serve warm or chilled."
+    ],
+    "category": "Dessert"
+  },
+  {
+    "id": 14,
+    "name": "Chicken Alfredo Pasta",
+    "ingredients": ["Pasta", "Chicken", "Cream", "Butter", "Garlic"],
+    "instructions": [
+      "Cook pasta until al dente.",
+      "Chop garlic and slice chicken.",
+      "Heat butter in a pan, sauté garlic, and cook chicken until done.",
+      "Add cream and simmer for 5 minutes.",
+      "Mix in pasta and toss well.",
+      "Serve hot with grated cheese if desired."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 15,
+    "name": "Potato Salad",
+    "ingredients": ["Potatoes", "Eggs", "Onion", "Mayonnaise", "Mustard"],
+    "instructions": [
+      "Boil potatoes and eggs until cooked, then peel and chop.",
+      "Chop onion finely.",
+      "Combine potatoes, eggs, and onion in a bowl.",
+      "Add mayonnaise and mustard, and mix well.",
+      "Season with salt and pepper.",
+      "Chill before serving."
+    ],
+    "category": "Lunch"
+  },
+  {
+    "id": 16,
+    "name": "Beef Fried Rice",
+    "ingredients": ["Rice", "Beef", "Carrots", "Eggs", "Onion"],
+    "instructions": [
+      "Cook rice and let it cool.",
+      "Slice beef and chop carrots and onion.",
+      "Heat oil in a pan and cook beef until browned.",
+      "Add vegetables and stir-fry for 3-4 minutes.",
+      "Push ingredients to the side, scramble eggs, and mix.",
+      "Add rice and stir-fry with soy sauce for 2-3 minutes.",
+      "Serve hot."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 17,
+    "name": "Garlic Bread",
+    "ingredients": ["Bread", "Butter", "Garlic"],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "Mix softened butter with minced garlic.",
+      "Spread garlic butter on bread slices.",
+      "Bake for 10-12 minutes until golden.",
+      "Serve warm."
+    ],
+    "category": "Side"
+  },
+  {
+    "id": 18,
+    "name": "Pork Curry",
+    "ingredients": ["Pork", "Potatoes", "Carrots", "Onion", "Tomatoes"],
+    "instructions": [
+      "Chop pork and vegetables.",
+      "Heat oil in a pan and sauté onion until soft.",
+      "Add pork and cook until browned.",
+      "Add potatoes, carrots, and tomatoes.",
+      "Add water and spices, then simmer until pork is tender.",
+      "Serve hot with rice or bread."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 19,
+    "name": "Vegetable Stir-Fry",
+    "ingredients": ["Cabbage", "Carrots", "Onion", "Cauliflower"],
+    "instructions": [
+      "Chop all vegetables.",
+      "Heat oil in a pan and sauté onions for 2 minutes.",
+      "Add remaining vegetables and stir-fry for 5-7 minutes.",
+      "Add soy sauce or seasonings and mix well.",
+      "Serve hot."
+    ],
+    "category": "Lunch"
+  },
+  {
+    "id": 20,
+    "name": "Apple Pie",
+    "ingredients": ["Apples", "Sugar", "Flour", "Butter"],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "Prepare dough using flour and butter.",
+      "Peel and slice apples, mix with sugar.",
+      "Place apples in dough-lined pan and cover with top layer of dough.",
+      "Bake for 45-50 minutes until golden brown.",
+      "Cool and serve."
+    ],
+    "category": "Dessert"
+  },
+  {
+    "id": 21,
+    "name": "Chicken Soup",
+    "ingredients": ["Chicken", "Carrots", "Onion", "Celery", "Noodles"],
+    "instructions": [
+      "Chop chicken, carrots, onion, and celery.",
+      "Boil chicken in water until cooked.",
+      "Add vegetables and cook for 10-15 minutes.",
+      "Add noodles and cook until tender.",
+      "Season with salt and pepper.",
+      "Serve hot."
+    ],
+    "category": "Lunch"
+  },
+  {
+    "id": 22,
+    "name": "Veggie Omelette",
+    "ingredients": ["Eggs", "Cabbage", "Onion", "Spinach"],
+    "instructions": [
+      "Beat eggs in a bowl.",
+      "Chop cabbage, onion, and spinach.",
+      "Heat oil in a pan and sauté vegetables for 2-3 minutes.",
+      "Pour eggs over vegetables and cook until set.",
+      "Fold omelette and serve warm."
+    ],
+    "category": "Breakfast"
+  },
+  {
+    "id": 23,
+    "name": "BBQ Chicken",
+    "ingredients": ["Chicken", "BBQ Sauce", "Onion"],
+    "instructions": [
+      "Chop onion and set aside.",
+      "Grill or bake chicken until almost cooked through.",
+      "Brush chicken with BBQ sauce and add onions if desired.",
+      "Grill for another 5-10 minutes until fully cooked.",
+      "Serve hot."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 24,
+    "name": "Beef Tacos",
+    "ingredients": ["Beef", "Onion", "Lettuce", "Tomatoes", "Taco Shells"],
+    "instructions": [
+      "Cook beef with chopped onion until browned.",
+      "Chop lettuce and tomatoes.",
+      "Warm taco shells.",
+      "Assemble tacos with beef, lettuce, and tomatoes.",
+      "Serve immediately."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 25,
+    "name": "Mashed Potatoes",
+    "ingredients": ["Potatoes", "Butter", "Milk", "Salt"],
+    "instructions": [
+      "Boil peeled potatoes until soft.",
+      "Mash potatoes with butter and milk.",
+      "Season with salt and mix well.",
+      "Serve warm."
+    ],
+    "category": "Side"
+  },
+  {
+    "id": 26,
+    "name": "Chicken Wrap",
+    "ingredients": ["Chicken", "Tortilla", "Lettuce", "Tomatoes"],
+    "instructions": [
+      "Cook and slice chicken into strips.",
+      "Wash and chop lettuce and tomatoes.",
+      "Warm the tortilla slightly.",
+      "Place chicken, lettuce, and tomatoes on the tortilla.",
+      "Roll the tortilla tightly into a wrap.",
+      "Serve immediately."
+    ],
+    "category": "Lunch"
+  },
+  {
+    "id": 27,
+    "name": "Vegetable Soup",
+    "ingredients": ["Carrots", "Potatoes", "Tomatoes", "Onion", "Cabbage"],
+    "instructions": [
+      "Chop all vegetables into small pieces.",
+      "Heat oil in a pot and sauté onions until soft.",
+      "Add carrots, potatoes, tomatoes, and cabbage.",
+      "Pour in vegetable or chicken broth to cover.",
+      "Simmer for 20-25 minutes until vegetables are tender.",
+      "Season with salt, pepper, and herbs.",
+      "Serve hot."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 28,
+    "name": "Fish Fry",
+    "ingredients": ["Fish", "Flour", "Lemon", "Salt"],
+    "instructions": [
+      "Clean and pat dry the fish.",
+      "Season fish with salt and a squeeze of lemon.",
+      "Coat fish lightly with flour.",
+      "Heat oil in a pan over medium heat.",
+      "Fry fish until golden and cooked through.",
+      "Serve hot with lemon wedges."
+    ],
+    "category": "Lunch"
+  },
+  {
+    "id": 29,
+    "name": "Chicken Rice Bowl",
+    "ingredients": ["Rice", "Chicken", "Carrots", "Broccoli"],
+    "instructions": [
+      "Cook rice according to package instructions.",
+      "Grill or pan-cook chicken and slice it.",
+      "Steam or sauté carrots and broccoli until tender.",
+      "Place rice in a bowl and top with chicken and vegetables.",
+      "Optionally drizzle with sauce or soy sauce.",
+      "Serve warm."
+    ],
+    "category": "Lunch"
+  },
+  {
+    "id": 30,
+    "name": "Cauliflower Soup",
+    "ingredients": ["Cauliflower", "Onion", "Garlic", "Cream"],
+    "instructions": [
+      "Chop cauliflower, onion, and garlic.",
+      "Heat oil in a pot and sauté onion and garlic until fragrant.",
+      "Add cauliflower and cook for 5 minutes.",
+      "Add water or broth and simmer until cauliflower is tender.",
+      "Blend the soup until smooth.",
+      "Stir in cream and season with salt and pepper.",
+      "Serve hot."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 31,
+    "name": "Pasta with Tomato Sauce",
+    "ingredients": ["Pasta", "Tomatoes", "Garlic", "Olive Oil"],
+    "instructions": [
+      "Boil pasta according to package instructions.",
+      "Chop tomatoes and garlic.",
+      "Heat olive oil in a pan and sauté garlic until fragrant.",
+      "Add tomatoes and simmer for 10 minutes.",
+      "Mix cooked pasta with tomato sauce.",
+      "Season with salt, pepper, and herbs.",
+      "Serve warm."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 32,
+    "name": "Cabbage Stir Fry",
+    "ingredients": ["Cabbage", "Carrots", "Onion", "Soy Sauce"],
+    "instructions": [
+      "Chop cabbage, carrots, and onion.",
+      "Heat oil in a pan and sauté onion until soft.",
+      "Add cabbage and carrots, stir-fry for 5-7 minutes.",
+      "Add soy sauce and cook for another 2 minutes.",
+      "Serve hot."
+    ],
+    "category": "Lunch"
+  },
+  {
+    "id": 33,
+    "name": "Chicken Nuggets",
+    "ingredients": ["Chicken", "Flour", "Eggs", "Breadcrumbs"],
+    "instructions": [
+      "Cut chicken into bite-sized pieces.",
+      "Coat each piece in flour, dip in beaten eggs, and coat with breadcrumbs.",
+      "Heat oil in a pan or deep fryer.",
+      "Fry chicken pieces until golden brown and cooked through.",
+      "Drain excess oil and serve hot with dipping sauce."
+    ],
+    "category": "Snack"
+  },
+  {
+    "id": 34,
+    "name": "Fish Sandwich",
+    "ingredients": ["Fish", "Bread", "Lettuce", "Tomato"],
+    "instructions": [
+      "Cook fish fillets until golden and cooked through.",
+      "Wash and slice lettuce and tomato.",
+      "Toast bread slices if desired.",
+      "Place lettuce, tomato, and fish between slices of bread.",
+      "Serve immediately."
+    ],
+    "category": "Lunch"
+  },
+  {
+    "id": 35,
+    "name": "Pork Rice Bowl",
+    "ingredients": ["Pork", "Rice", "Onion", "Carrots"],
+    "instructions": [
+      "Cook pork and vegetables.",
+      "Serve over cooked rice.",
+      "Add soy sauce or seasoning as desired."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 36,
+    "name": "Scrambled Eggs",
+    "ingredients": ["Eggs", "Milk", "Butter"],
+    "instructions": [
+      "Beat eggs with milk in a bowl.",
+      "Heat butter in a skillet.",
+      "Pour egg mixture into skillet and cook over medium heat.",
+      "Stir gently until eggs are fully cooked.",
+      "Serve warm."
+    ],
+    "category": "Breakfast"
+  },
+  {
+    "id": 37,
+    "name": "Beef Stir Fry",
+    "ingredients": ["Beef", "Onion", "Bell Peppers", "Soy Sauce"],
+    "instructions": [
+      "Slice beef thinly and chop onions and bell peppers.",
+      "Heat oil in a pan and cook beef until browned.",
+      "Add vegetables and stir-fry for 4-5 minutes.",
+      "Add soy sauce and cook for another 2 minutes.",
+      "Serve hot with rice or noodles."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 38,
+    "name": "Chicken Curry",
+    "ingredients": ["Chicken", "Tomatoes", "Onion", "Garlic", "Coconut Milk"],
+    "instructions": [
+      "Chop chicken, tomatoes, onion, and garlic.",
+      "Heat oil in a pan and sauté onion and garlic until fragrant.",
+      "Add chicken pieces and cook until browned.",
+      "Add tomatoes and cook for 5 minutes.",
+      "Pour in coconut milk and simmer until chicken is cooked.",
+      "Season with curry spices and salt.",
+      "Serve with rice."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 39,
+    "name": "Veggie Sandwich",
+    "ingredients": ["Bread", "Lettuce", "Tomatoes", "Cucumber"],
+    "instructions": [
+      "Wash and slice lettuce, tomatoes, and cucumber.",
+      "Toast bread slices if desired.",
+      "Layer vegetables between bread slices.",
+      "Optionally add mayonnaise or dressing.",
+      "Serve immediately."
+    ],
+    "category": "Snack"
+  },
+  {
+    "id": 40,
+    "name": "Egg Fried Rice",
+    "ingredients": ["Rice", "Eggs", "Carrots", "Peas", "Onion"],
+    "instructions": [
+      "Cook rice and let it cool.",
+      "Chop carrots and onion.",
+      "Heat oil in a pan and sauté onion and carrots for 3-4 minutes.",
+      "Add peas and cook for 2 minutes.",
+      "Push vegetables to the side and scramble eggs in the pan.",
+      "Mix in rice and stir-fry everything together.",
+      "Season with soy sauce and serve hot."
+    ],
+    "category": "Lunch"
+  },
+  {
+    "id": 41,
+    "name": "Banana Smoothie",
+    "ingredients": ["Bananas", "Milk", "Honey"],
+    "instructions": [
+      "Peel bananas and cut into pieces.",
+      "Place bananas, milk, and honey in a blender.",
+      "Blend until smooth and creamy.",
+      "Pour into glasses and serve chilled."
+    ],
+    "category": "Breakfast"
+  },
+  {
+    "id": 42,
+    "name": "Chicken Caesar Salad",
+    "ingredients": ["Chicken", "Lettuce", "Croutons", "Parmesan"],
+    "instructions": [
+      "Cook and slice chicken.",
+      "Wash and chop lettuce.",
+      "Combine lettuce, chicken, and croutons in a bowl.",
+      "Sprinkle with grated Parmesan cheese.",
+      "Drizzle with Caesar dressing and toss well.",
+      "Serve immediately."
+    ],
+    "category": "Lunch"
+  },
+  {
+    "id": 43,
+    "name": "Tomato Pasta Bake",
+    "ingredients": ["Pasta", "Tomatoes", "Cheese", "Garlic"],
+    "instructions": [
+      "Boil pasta until al dente.",
+      "Chop tomatoes and garlic.",
+      "Sauté garlic in olive oil, add tomatoes and simmer for 10 minutes.",
+      "Mix pasta with tomato sauce and place in a baking dish.",
+      "Top with shredded cheese.",
+      "Bake at 375°F (190°C) for 15-20 minutes until cheese melts and is golden.",
+      "Serve hot."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 44,
+    "name": "Potato Wedges",
+    "ingredients": ["Potatoes", "Olive Oil", "Salt", "Paprika"],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Wash and cut potatoes into wedges.",
+      "Toss wedges with olive oil, salt, and paprika.",
+      "Place on a baking sheet and bake for 25-30 minutes until crispy.",
+      "Serve warm."
+    ],
+    "category": "Snack"
+  },
+  {
+    "id": 45,
+    "name": "Cauliflower Rice",
+    "ingredients": ["Cauliflower", "Garlic", "Olive Oil"],
+    "instructions": [
+      "Pulse cauliflower in a food processor until rice-sized pieces form.",
+      "Chop garlic.",
+      "Heat olive oil in a pan and sauté garlic until fragrant.",
+      "Add cauliflower rice and stir-fry for 5-7 minutes.",
+      "Season with salt and pepper.",
+      "Serve warm."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 46,
+    "name": "Chicken & Rice Soup",
+    "ingredients": ["Chicken", "Rice", "Carrots", "Onion"],
+    "instructions": [
+      "Chop chicken, carrots, and onion.",
+      "Boil chicken in water until cooked.",
+      "Add rice, carrots, and onion to the pot.",
+      "Simmer for 20-25 minutes until rice is cooked.",
+      "Season with salt and pepper.",
+      "Serve hot."
+    ],
+    "category": "Lunch"
+  },
+  {
+    "id": 47,
+    "name": "Beef Burger",
+    "ingredients": ["Beef", "Bread", "Lettuce", "Tomato"],
+    "instructions": [
+      "Form beef into patties and season with salt and pepper.",
+      "Cook patties on a grill or pan until desired doneness.",
+      "Slice bread (bun) and toast lightly.",
+      "Assemble burger with lettuce, tomato, and cooked beef patty.",
+      "Serve immediately."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 48,
+    "name": "Carrot Soup",
+    "ingredients": ["Carrots", "Onion", "Garlic", "Cream"],
+    "instructions": [
+      "Chop carrots, onion, and garlic.",
+      "Heat oil in a pot and sauté onion and garlic until soft.",
+      "Add carrots and cook for 5 minutes.",
+      "Add water or broth and simmer until carrots are tender.",
+      "Blend the soup until smooth.",
+      "Stir in cream and season with salt and pepper.",
+      "Serve warm."
+    ],
+    "category": "Lunch"
+  },
+  {
+    "id": 49,
+    "name": "Fried Fish",
+    "ingredients": ["Fish", "Flour", "Salt", "Lemon"],
+    "instructions": [
+      "Clean fish and pat dry.",
+      "Season with salt and a squeeze of lemon.",
+      "Coat fish lightly with flour.",
+      "Heat oil in a pan and fry fish until golden brown.",
+      "Serve hot with lemon wedges."
+    ],
+    "category": "Dinner"
+  },
+  {
+    "id": 50,
+    "name": "Chicken Pasta Salad",
+    "ingredients": ["Pasta", "Chicken", "Lettuce", "Tomatoes"],
+    "instructions": [
+      "Cook pasta and let it cool.",
+      "Cook chicken and slice it.",
+      "Chop lettuce and tomatoes.",
+      "Mix pasta, chicken, and vegetables in a bowl.",
+      "Add dressing if desired and toss well.",
+      "Serve chilled or at room temperature."
+    ],
+    "category": "Lunch"
+  }
+]
+ 
+ 
+
